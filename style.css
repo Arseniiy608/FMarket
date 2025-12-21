@@ -84,3 +84,63 @@ body {
    margin-top: 50px;
    color: darkslateblue;
 }
+h1 {
+    color: plum;
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+}
+h2 { text-align: center;
+color: purple;
+text-shadow: 2px 2px 4px black;
+}
+body {
+    background-color: darkslateblue;
+}
+.fishing {
+    color: cyan;
+}
+.video {
+    border: 4px solid white;
+}
+.contact {
+    color: blue;
+}
+p {
+    color: chartreuse;
+}
+.footer {
+    border-left:30px double blue ;
+    font-size: 30px;
+}
+.footere {
+    margin-top: 50px;
+    border: 3px double violet;
+    color: aqua;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.gallery {
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    opacity: 0.2;
+    width: 150px;
+    height: 200px;
+}
+
+.gallery img:hover {
+    opacity: 1;
+    margin: 20px;
+    border: 3px solid navy;
+}
+table {
+    border: 5px double blueviolet;
+    color: blue;
+    border-radius: 5px;
+}
