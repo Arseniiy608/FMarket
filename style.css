@@ -2,6 +2,7 @@ h1 {
     color: aqua;
     text-align: center;
     text-shadow: 2px 2px 4px black;
+    background-color: #B484D9
 }
 .href {
     text-decoration: none;
@@ -71,6 +72,7 @@ table {
 h2 { text-align: center;
 color: aqua;
 text-shadow: 2px 2px 4px black;
+    background-color: #6D12DC
 }
 body {
     background-color: darkslateblue;
@@ -145,9 +147,4 @@ table {
     color: blue;
     border-radius: 5px;
 }
-h1 {
-    background-color: #B484D9
-}
-h2 {
-  background-color: #6D12DC
-}
+
