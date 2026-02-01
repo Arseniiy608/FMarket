@@ -59,6 +59,7 @@ color: aqua;
 .right {
     margin-left: 150px;
     color: red;
+    font-size: 60px;
    
 }
 .main { margin-left: 150px;
@@ -69,6 +70,7 @@ table {
     border: 5px solid red;
     color: chocolate;
     border-radius: 5px;
+    font-size: 60px;
 }
 h2 { text-align: center;
 color: aqua;
@@ -147,5 +149,6 @@ table {
     border: 5px double blueviolet;
     color: blue;
     border-radius: 5px;
+    font-size: 60px;
 }
 
