@@ -53,6 +53,7 @@ color: aqua;
 .center {
     margin-left: 150px;
     color: blueviolet;
+    font-size:20px
    
 }
 .right {
@@ -147,6 +148,4 @@ table {
     color: blue;
     border-radius: 5px;
 }
-body { 
-    font-size:
-}
+
