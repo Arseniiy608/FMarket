@@ -52,7 +52,7 @@ color: aqua;
 }
 .center {
     margin-left: 150px;
-    color: blueviolet;
+    color: green ;
     font-size: 60px;
    
 }
@@ -92,15 +92,15 @@ body {
 }
 .fish {
    margin-top: 50px;
-   color: darkslateblue;
+   color: red;
 }
 h1 {
-    color: plum;
+    color: pink;
     text-align: center;
     text-shadow: 2px 2px 4px black;
 }
 h2 { text-align: center;
-color: purple;
+color: orange;
 text-shadow: 2px 2px 4px black;
 }
 
@@ -145,7 +145,7 @@ p {
     border: 3px solid navy;
 }
 table {
-    border: 5px double blueviolet;
+    border: 5px double black;
     color: blue;
     border-radius: 5px;
     font-size: 60px;
